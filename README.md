@@ -33,9 +33,9 @@ Your shell prompt will change to show the name of the activated environment.
 ## For Windows
 Create a **project folder** and a **venv** folder within:
 ```
-$ mkdir myproject
-$ cd myproject
-$ py -3 -m venv venv
+> mkdir myproject
+> cd myproject
+> py -3 -m venv venv
 
 ```
 
@@ -43,7 +43,7 @@ $ py -3 -m venv venv
 
 Before you work on your project, activate the corresponding environment:
 ```
-$ . venv/Scripts/activate
+> . venv/Scripts/activate
 ```
 Your shell prompt will change to show the name of the activated environment.
 
