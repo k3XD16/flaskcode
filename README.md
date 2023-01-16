@@ -1,6 +1,6 @@
-# FLASK PROJECT
+# Flask for Quality Dashboard
 
-## To Install Flask in your machine 
+## For Flask Installtion Guide
 
 ### Follow the steps given bellow
 
